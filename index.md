@@ -11,9 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Gyaanipedia
+## Shaunak
+Gyaanipedia is a worldwide wiki website founded by Shaunak Chakraborty on 30 August 2018, the independent site came to force on 31 October 2018. The Slogan of this wiki website is Shows The Unseen Side. The headquarter was installed in Kolkata, India by CEO Shaunak Chakraborty. At the initial days of Gyaanipedia, the wiki struggled a lot to gain a uprising statistics but always failed to do so. After completion of six months of this wiki that was March 2019 it started gaining the attention of the strugglers and the less popular people. The article creation process suddenly speeding up. Shaunak Chakraborty was the first person to complete 1000 articles as well as edits on the wiki.
+
+Shaunak Chakraborty(in Hindi शौनक चक्रवर्ती and in Bengali শৌনক চক্রবর্তী) is an Indian writer, author, poet, social worker and the founder of Gyaanipedia was born on 23 December 2000 in India's former capital Kolkata which is the present capital of Indian state West Bengal. He is popularly known for his poems written in India's national language Hindi.[5][6] He is the chairperson of Fridays For Future Virtual.
 
 - Bulleted
 - List
